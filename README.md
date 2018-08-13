@@ -1,3 +1,3 @@
 # Fashionstore
 
-Fashion Ecommerce Built With Laravel
+Fashion Ecommerce Built With Laravel and Bootstrap
